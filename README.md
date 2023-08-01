@@ -1,4 +1,4 @@
-# Aplikasi Inventori Dengan Framework CodeIgniter 3 & Template SB Admin 2
+# Aplikasi Penjualan Barang Dengan Framework CodeIgniter 3 & Template SB Admin 2
 
 ### Kenapa saya membuat aplikasi ini?
 
@@ -66,7 +66,3 @@ Untuk cara instalasi dan konfigurasi caranya sangat mudah
 7. Import `db_inventori.sql` ke database milik kalian
 8. Untuk login `admin` kalian bisa menggunakan username = `nugrohoff` dan password `pwd_nugroho`
 9. Untuk login `petugas` kalian bisa menggunakan username = `PTGS35` dan password `pwd_fanani`
-
-### Tentang Saya
-
-Fakhrul Nugroho siswa Kelas 12 Jurusan Teknik Komputer Informatika di SMK Negeri 1 Wanareja. https://www.instagram.com/nugrohospace/
