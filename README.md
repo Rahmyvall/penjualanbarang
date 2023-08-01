@@ -12,10 +12,6 @@ Untuk kalian semua yang mau belajar atau yang butuh inspirasi tentang aplikasi b
 
 Jawabanya adalah **sangat sangat boleh!** Tapi ingat tetap sertakan siapa yang membuat aplikasi ini. 
 
-### Kalo di jual boleh ga?
-
-**Dilarang Keras!** Karena ini aplikasi bener bener gratis dan bebas bagi siapapun yang menggunakan dan ingin memodifikasinya.
-
 ### Fiturnya apa saja sih?
 Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
 1. **Modul Authentikasi**
