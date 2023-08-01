@@ -59,6 +59,6 @@ Untuk cara instalasi dan konfigurasi caranya sangat mudah
 4. Selanjutnya kalian bisa buka file `application/config/config.php` 
 5. Ubah isi dari variable `$config['base_url']` dengan `http://localhost/namafolder/`
 6. Untuk `namafolder` silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
-7. Import `db_inventori.sql` ke database milik kalian
+7. Import `db_stokbarang.sql` ke database milik kalian
 8. Untuk login `admin` kalian bisa menggunakan username = `admin` dan password `admin`
 9. Untuk login `petugas` kalian bisa menggunakan username = `user` dan password `user`
